@@ -1,0 +1,29 @@
+{
+  "name": "jetttime",
+  "version": "1.0.0",
+  "description": "Premium travelling website",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "autoprefixer": "^10.5.4",
+    "axios": "^1.19.0",
+    "framer-motion": "^12.43.0",
+    "next": "^16.2.12",
+    "postcss": "^8.5.25",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-hook-form": "^7.84.0",
+    "sharp": "^0.35.3",
+    "tailwindcss": "^4.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "26.1.2",
+    "@types/react": "19.2.18",
+    "typescript": "6.0.3"
+  }
+}
